@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Sharath, goes by IndiSukka here on Github.
-- Work as a QA Analyst with experiecne in both Automated and Manual testing
-- Interested in automation with Selenium + Java, API, Service testing with SOAP/Postman
-- I use Linux as my main OS, this repo will house some scripts related to my personal linux setup as well
+- I work as a QA Analyst with experience in both Automated and Manual testing, primarily in testing insurance applications.
+- Interested in automation with Selenium + Java, API, Service testing with SOAP/Postman. Currently working on moving to Playwright and learning about using GenAI/LLM agents in test automation. 
+- I use Linux as my main OS, this repo will house some scripts related to my personal linux setup.
